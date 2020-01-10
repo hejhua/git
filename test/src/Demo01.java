@@ -8,5 +8,8 @@ public class Demo01 {
         System.out.println("哈哈");
 
         System.out.println("我准备");
+
+
+        System.out.println("我准备用命令");
     }
 }
