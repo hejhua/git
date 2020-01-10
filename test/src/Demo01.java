@@ -14,5 +14,6 @@ public class Demo01 {
 
         System.out.println("我加了点东西");
         System.out.println("我搞不懂");
+        System.out.println("哈哈哈");
     }
 }
