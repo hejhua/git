@@ -18,5 +18,6 @@ public class Demo01 {
         System.out.println("我自动和");
         System.out.println("我再");
         System.out.println("我测试1");
+        System.out.println("我测试2");
     }
 }
