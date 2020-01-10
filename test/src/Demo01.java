@@ -19,5 +19,6 @@ public class Demo01 {
         System.out.println("我再");
         System.out.println("我测试1");
         System.out.println("我测试2");
+        System.out.println("我合并1");
     }
 }
