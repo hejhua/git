@@ -22,5 +22,7 @@ public class Demo01 {
         System.out.println("我合并1");
 
         System.out.println("1");
+        System.out.println("2");
+
     }
 }
